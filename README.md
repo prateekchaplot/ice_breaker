@@ -9,11 +9,12 @@
 ## Install libraries
 ```
 pip install langchain
-pip install black
+pip install openai
+pip install googlesearch-python
 ```
 
 - langchain: framework to build llm powered apps
-- black: code formatter
+- openai: chat model
 
 ## Add env file
 - Create .env file
